@@ -14,8 +14,8 @@ semester: "Spring 2026"
 
 shortTitle: "Codebase Mapper"
 studentId: "116801027"
-videoUrl: "https://drive.google.com/file/d/1xOf3G2e5Sn1Dd5uymDFeXISW826YWjci/view?usp=sharing"
-thumbnail: "https://drive.google.com/file/d/1mdER9qbl9xa7GvwbqVU4C_FmdQDwnCup/view?usp=sharing"
+videoUrl: "https://drive.google.com/file/d/1ZEemwQQ6Usln1oRMRye0oGOsTkXysZxj/view?usp=sharing"
+thumbnail: "https://drive.google.com/file/d/1KMf3UVaYoOCnr3K8aABLBEmWdTs8G_I9/view?usp=sharing"
 githubUrl: "https://github.com/ReillyO/Codebase_Vis_Final_Project/tree/main"
 ---
 
