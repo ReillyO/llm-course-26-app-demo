@@ -30,6 +30,7 @@ The implementation consists of a graphical user interface (GUI) to aid developer
 
 ## User Flow
 
+0) The user runs either `run.bat` (Windows) or `run.sh` (MacOS/Linux) to generate a Python virtual environment and start the graphical interface and Python backend on localhost
 1) The user compresses the desired codebase for inspection into a .zip file format and uploads it to the visualizer using the "Upload Code .zip" button. 
 2) Following a short delay for codebase analysis via a Python backend, the user is presented with a set of boxes in the main canvas labelled with file and class names, corresponding to their structure in the codebase. 
 3) The user can investigate the codebase architecture and dependencies via the following controls:
